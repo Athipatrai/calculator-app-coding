@@ -20,7 +20,7 @@ https://github.com/Athipatrai/calculator-app-coding.git
 ```bash
 C:\Users\Downloads\calculator-app-coding-main.zip
 ```
-3. นำโฟลเดอร์โปรเจกต์ import to`Visual Studio Code`
+3. นำโฟลเดอร์โปรเจกต์ Import to `Visual Studio Code`
 
 #### Extemsions Install
 - Live Preview
@@ -46,4 +46,7 @@ https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css
 ## Credit
 **Youtube :** AsmrProg
 
-**Link :** https://www.youtube.com/channel/UCJqXkOwrq7uBn-sn_Fvce9Q
+**Link :**
+```
+https://www.youtube.com/channel/UCJqXkOwrq7uBn-sn_Fvce9Q
+```
