@@ -39,12 +39,12 @@ https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css
 
 ## Group Member
 - **Mr.Athipatrai Chatumat 1670702206**
-  - Responsibilities: Writing code and documentation.
+  - Responsibilities: `Writing code` and `documentation`.
 - **Mr.Surapat Udomsub 1660802909**
-  - Responsibilities: Editing videos and finding references.
+  - Responsibilities: `Editing videos` and `finding references`.
 
 ## Credit
-**Youtube :** AsmrProg
+**Youtube :** `AsmrProg`
 
 **Link :**
 ```
